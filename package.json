@@ -10,5 +10,8 @@
   "license": "ISC",
   "devDependencies": {
     "@types/node": "^17.0.4"
+  },
+  "dependencies": {
+    "graceful-fs": "^4.2.8"
   }
 }
