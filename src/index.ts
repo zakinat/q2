@@ -29,6 +29,6 @@ const N_prbabilityFile=(n:number)=>{
 }
 
 
-const n2=N_prbabilityFile(1)
+const n2=N_prbabilityFile(5)
 console.log(`there are ${n2.FileLength} lines in the file`)
 //there are 30240 lines in the file for n=5
